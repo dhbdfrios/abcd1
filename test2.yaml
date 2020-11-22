@@ -1,0 +1,31 @@
+#1.以-开头 加空格 表示数组 相当于Python里面的列表
+#- 1
+#- 2
+#- 3
+
+#animal:
+# - A
+# - B
+# - C
+
+#-
+# - A
+# - B
+# - C
+
+#    -
+#        id: 1
+#        name: company1
+#        price: 200W
+#    -
+#        id: 2
+#        name: company2
+#        price: 500W
+
+- lisi@163.com
+- 1315151
+
+- lisi2@163.com
+- 13151512
+
+
